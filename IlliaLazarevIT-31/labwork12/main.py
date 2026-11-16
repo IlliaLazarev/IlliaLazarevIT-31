@@ -28,7 +28,7 @@ print("\n3. Створення особистого файлу:")
 personal_text = (
     "Ім'я: Ілля\n"
     "Прізвище: Лазарев\n"
-    "Група: ПЗ-21\n"
+    "Група: IT-31\n"
 )
 
 new_file = lazarev_files.create_file(
